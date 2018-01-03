@@ -1,0 +1,34 @@
+{% extends 'game/base.html' %}
+
+
+
+{% block gamesp %}
+    <style>
+    button {
+        background-color:white
+        border: 2px solid #555555;
+        color: black;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+
+      }
+    </style>
+    <a href="/game/game/gamesp/"><button>자바스크립트_ Car </button></a>
+{% endblock %}
+
+
+
+
+{% block gametensor %}
+    <a href="/game/game/gametensor/1/2/"><button>파이썬_텐서플로우</button></a>
+{% endblock %}
+
+{% block board %}
+    <a href="/tesorproj/write/"><button>1. 보드 글쓰기</button></a>
+    <a href="/tesorproj/list"><button>2. 글 보기</button></a>
+{% endblock %}

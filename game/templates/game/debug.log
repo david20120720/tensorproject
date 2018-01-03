@@ -1,0 +1,5 @@
+[1231/152241.456:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: 액세스가 거부되었습니다. (0x5)
+[1231/152241.548:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: 액세스가 거부되었습니다. (0x5)
+[1231/152448.446:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: 액세스가 거부되었습니다. (0x5)
+[1231/192741.709:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: 액세스가 거부되었습니다. (0x5)
+[1231/192805.714:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: 액세스가 거부되었습니다. (0x5)
